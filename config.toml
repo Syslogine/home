@@ -63,8 +63,8 @@ defaultContentLanguage = 'en'
         # version = true # includes git commit info
 
     [params.social]
-        github = ""        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
-        twitter = ""       # YOUR_TWITTER_ID
+        #github = ""        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
+        #twitter = ""       # YOUR_TWITTER_ID
         # instagram = "colinwilson"     # YOUR_INSTAGRAM_ID
         # rss = true                    # show rss icon with link
 

@@ -24,7 +24,7 @@ hero:
   #   height: 80px
 
   title: "Syslogine"
-  subtitle: Contact us for new project
+  subtitle: We bring the future.
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
@@ -33,16 +33,7 @@ hero:
     boxShadow: true # default 'false' (excludes .svg images)
     rounded: true # round the image corners? default 'false' (excludes .svg images)
 
-  ctaButton:
-    icon: rocket_launch
-    btnText: "Get Started"
-    url: "/docs/quickstart/"
-  cta2Button:
-    icon: construction
-    btnText: "In Development"
-    url: "https://github.com/colinwilson/lotusdocs"
 
-  info: "**Open Source** MIT Licensed."
 
 # Features Grid
 features:
