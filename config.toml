@@ -59,7 +59,7 @@ defaultContentLanguage = 'en'
   mono_font       = "Fira Code" # Default is System font
 
     [params.footer]
-        copyright = "© :YEAR: Lotus Labs. Built with [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
+        copyright = "© 2023 Syslogine All Rights Reserved"
         # version = true # includes git commit info
 
     [params.social]
@@ -157,8 +157,8 @@ defaultContentLanguage = 'en'
 
 [menu]
 [[menu.primary]]
-    name  = "Docs"
-    url = "docs/"
+    name  = "Visit Docs"
+    url = "https://syslogine.cloud"
     identifier = "docs"
     weight = 10
 
