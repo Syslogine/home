@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://syslogine.com"
 languageCode = "en-GB"
 contentDir = "content"
 enableEmoji = true
