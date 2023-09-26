@@ -24,7 +24,7 @@ hero:
   #   height: 80px
 
   title: "Syslogine"
-  subtitle: We bring the future.
+  subtitle: Where we specialize in crafting **customized tech solutions** for businesses across **various industries**. Our mission is to collaborate with you and turn **your unique ideas into reality**.
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
@@ -33,6 +33,10 @@ hero:
     boxShadow: false # default 'false' (excludes .svg images)
     rounded: true # round the image corners? default 'false' (excludes .svg images)
 
+  ctaButton:
+    icon: rocket_launch
+    btnText: "Visit Docs"
+    url: "https://syslogine.cloud/docs/"
 
 
 # Features Grid
@@ -40,5 +44,30 @@ features:
   enable: true
   weight: 20
 
-  title: Why choose Lotus Docs?
-  subtitle: Lotus Docs is a highly configurable Hugo documentation theme. Yet, with the default configuration you can deploy and publish your documentation site in a matter of minutes. Check out some core features below.
+  title: Get Started on Your Next Project
+  subtitle: Whether you're a startup or an established enterprise, we're here to bring your vision to life. Let's collaborate and make your tech ideas a reality.
+
+  items:
+    - title: Tailored Approach
+      #icon: speed
+      description: We understand that each business is distinct. Our dedicated team works closely with you to comprehend your specific needs and design solutions that perfectly align with your goals.
+
+    - title: Expertise and Experience
+      #icon: trending_up
+      description: Backed by years of experience and a team of skilled professionals, we bring expertise to the table. From concept to execution, we ensure your project is in capable hands.
+
+    - title: Seamless Project Management
+      #icon: lock
+      description: We pride ourselves on efficient project management, delivering high-quality results within stipulated timelines. Your satisfaction and project success are our top priorities.
+
+    - title: Custom Software Development
+      #icon: settings
+      description: Tailor-made software solutions designed to address your business challenges and boost productivity.
+
+    - title: Web and Mobile App Development
+      #icon: change_history
+      description: Engaging, user-friendly applications that enhance your online presence and user experience.
+
+    - title: IoT Solutions
+      #icon: dark_mode
+      description:  Innovate and stay ahead in the IoT era with our IoT development and integration services.
