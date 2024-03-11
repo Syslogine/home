@@ -7,4 +7,4 @@ require (
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
 )
 
-replace github.com/colinwilson/lotusdocs => ../
+replace github.com/syslogine/home => ../
