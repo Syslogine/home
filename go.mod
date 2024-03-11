@@ -1,4 +1,4 @@
-module my-docs-site
+module github.com/Syslogine/home
 
 go 1.22.1
 
