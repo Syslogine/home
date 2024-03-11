@@ -1,4 +1,4 @@
-baseURL = "https://syslogine.com/"
+baseURL = "/"
 languageCode = "en-GB"
 contentDir = "content"
 enableEmoji = true
@@ -7,16 +7,16 @@ enableGitInfo = true # N.B. .GitInfo does not currently function with git submod
 defaultContentLanguage = 'en'
 [languages]
   [languages.en]
-    title = "Syslogine Docs"
+    title = "Lotus Docs Example Site"
     languageName = "English"
     weight = 10
   [languages.fr]
-    title = "Syslogine Docs"
+    title = "Lotus Docs Exemple de Site"
     languageName = "Français"
     contentDir = "content/fr"
     weight = 20
   [languages.de]
-    title = "Syslogine Docs"
+    title = "Lotus Docs Beispiel Site"
     languageName = "Deutsch"
     contentDir = "content/de"
     weight = 30
@@ -71,7 +71,7 @@ defaultContentLanguage = 'en'
     [params.docs] # Parameters for the /docs 'template'
         title           = "Lotus Docs Example Site"           # default html title for documentation pages/sections
 
-        pathName        = "docs"                            # path name for documentation site | default "docs"
+        # pathName        = "docs"                            # path name for documentation site | default "docs"
 
         # themeColor      = "cyan"                            # (optional) - Set theme accent colour. Options include: blue (default), green, red, yellow, emerald, cardinal, magenta, cyan
 
