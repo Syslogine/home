@@ -1,7 +1,15 @@
-baseURL = '/'
+baseURL = 'https://syslogine.com'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
+
+[module]
+    [[module.imports]]
+        path = "github.com/Syslogine/home"
+        disable = false
+    [[module.imports]]
+        path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
+        disable = false
 
 defaultContentLanguage = 'en'
 [languages]
@@ -25,16 +33,6 @@ defaultContentLanguage = 'en'
     languageName = "Nederlands"
     contentDir = "content/nl"
     weight = 40
-
-[module]
-    [module.hugoVersion]
-        extended = true
-        min = "0.120.0"
-
-    [[module.imports]]
-        path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
-        disable = false
-
 
 [menu]
 [[menu.primary]]
