@@ -1,25 +1,31 @@
-baseURL = "/"
+baseURL = "https://syslogine.com"
 languageCode = "en-GB"
 contentDir = "content"
 enableEmoji = true
-enableGitInfo = true # N.B. .GitInfo does not currently function with git submodule content directories
+enableGitInfo = true
 
 defaultContentLanguage = 'en'
 [languages]
   [languages.en]
-    title = "Lotus Docs Example Site"
+    title = "Syslogine Docs"
     languageName = "English"
+    contentDir = "content/en"
     weight = 10
   [languages.fr]
-    title = "Lotus Docs Exemple de Site"
+    title = "Syslogine Docs"
     languageName = "Français"
     contentDir = "content/fr"
     weight = 20
   [languages.de]
-    title = "Lotus Docs Beispiel Site"
+    title = "Syslogine Docs"
     languageName = "Deutsch"
     contentDir = "content/de"
     weight = 30
+  [languages.nl]
+    title = "Syslogine Docs"
+    languageName = "Nederlands"
+    contentDir = "content/nl"
+    weight = 40
 
 [module]
   [module.hugoVersion]
@@ -59,17 +65,17 @@ defaultContentLanguage = 'en'
   mono_font       = "Fira Code" # Default is System font
 
     [params.footer]
-        copyright = "© :YEAR: Lotus Labs. Built with [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
-        # version = true # includes git commit info
+        copyright = "© :YEAR: Syslogine. All rights reserved. Crafted with ❤️ by Syslogine"
+        version = true # includes git commit info
 
     [params.social]
-        github = ""        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
-        twitter = ""       # YOUR_TWITTER_ID
-        # instagram = "colinwilson"     # YOUR_INSTAGRAM_ID
-        # rss = true                    # show rss icon with link
+        github = "syslogine"
+        # twitter = ""
+        # instagram = ""
+        # rss = true
 
     [params.docs] # Parameters for the /docs 'template'
-        title           = "Lotus Docs Example Site"           # default html title for documentation pages/sections
+        title           = "Syslogine Docs"           # default html title for documentation pages/sections
 
         # pathName        = "docs"                            # path name for documentation site | default "docs"
 
@@ -82,7 +88,7 @@ defaultContentLanguage = 'en'
         prismTheme      = "solarized-light"                           # (optional) - Set theme for PrismJS. Options include: lotusdocs (default), solarized-light, twilight, lucario
 
         # gitinfo
-        repoURL         = "https://github.com/colinwilson/lotusdocs.dev"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
+        repoURL         = "https://github.com/syslogine/home"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
         repoBranch      = "release"
         editPage        = true                                # enable 'Edit this page' feature - default false
         lastMod         = true                                # enable 'Last modified' date on pages - default false
@@ -112,7 +118,7 @@ defaultContentLanguage = 'en'
         # extLinkNewTab   = false                             # Open external links in a new Tab? default true
         # logoLinkURL = ""                                    # Set a custom URL destination for the top header logo link.
 
-    [params.flexsearch] # Parameters for FlexSearch
+    [params.flexsearch]
         enabled             = true
         # tokenize            = "full"
         # optimize            = true
@@ -130,31 +136,6 @@ defaultContentLanguage = 'en'
         # plausibleURL    = "/docs/s" # (or set via env variable HUGO_PARAM_ANALYTICS_plausibleURL)
         # plausibleAPI    = "/docs/s" # optional - (or set via env variable HUGO_PARAM_ANALYTICS_plausibleAPI)
         # plausibleDomain = ""      # (or set via env variable HUGO_PARAM_ANALYTICS_plausibleDomain)
-
-    # [params.feedback]
-    #     enabled = true
-    #     emoticonTpl = true
-    #     eventDest = ["plausible","google"]
-    #     emoticonEventName = "Feedback"
-    #     positiveEventName = "Positive Feedback"
-    #     negativeEventName = "Negative Feedback"
-    #     positiveFormTitle = "What did you like?"
-    #     negativeFormTitle = "What went wrong?"
-    #     successMsg = "Thank you for helping to improve Lotus Docs' documentation!"
-    #     errorMsg = "Sorry! There was an error while attempting to submit your feedback!"
-    #     positiveForm = [
-    #       ["Accurate", "Accurately describes the feature or option."],
-    #       ["Solved my problem", "Helped me resolve an issue."],
-    #       ["Easy to understand", "Easy to follow and comprehend."],
-    #       ["Something else"]
-    #     ]
-    #     negativeForm = [
-    #       ["Inaccurate", "Doesn't accurately describe the feature or option."],
-    #       ["Couldn't find what I was looking for", "Missing important information."],
-    #       ["Hard to understand", "Too complicated or unclear."],
-    #       ["Code sample errors", "One or more code samples are incorrect."],
-    #       ["Something else"]
-    #     ]
 
 [menu]
 [[menu.primary]]
