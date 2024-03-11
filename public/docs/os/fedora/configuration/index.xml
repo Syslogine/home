@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Configuration &amp; Customization on Syslogine Docs</title>
+    <link>http://localhost:1313/docs/os/fedora/configuration/</link>
+    <description>Recent content in Configuration &amp; Customization on Syslogine Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/docs/os/fedora/configuration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application Defaults and Associations in Fedora Linux</title>
+      <link>http://localhost:1313/docs/os/fedora/configuration/app-defaults/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/os/fedora/configuration/app-defaults/</guid>
+      <description>Understanding File Types, Protocols, and MIME Types linkBefore we dive into the details, let&amp;rsquo;s briefly explain the key terms:&#xA;File Types: These refer to the extensions associated with files, such as .txt for text files, .pdf for PDF documents, or .mp3 for audio files. File types help the operating system identify the appropriate application to handle a particular file.&#xA;Protocols: Protocols define the way data is transmitted over a network. Common examples include http for web browsing, mailto for email clients, and ftp for file transfers.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/os/fedora/configuration/accessibility-options/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/os/fedora/configuration/accessibility-options/</guid>
+      <description>accessibility-options.md</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/os/fedora/configuration/desktop-customization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/os/fedora/configuration/desktop-customization/</guid>
+      <description>desktop-customization.md</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/os/fedora/configuration/display-settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/os/fedora/configuration/display-settings/</guid>
+      <description>display-settings.md</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/os/fedora/configuration/file-manager-config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/os/fedora/configuration/file-manager-config/</guid>
+      <description>file-manager-config.md</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/os/fedora/configuration/font-configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/os/fedora/configuration/font-configuration/</guid>
+      <description>font-configuration.md</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/os/fedora/configuration/keyboard-shortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/os/fedora/configuration/keyboard-shortcuts/</guid>
+      <description>keyboard-shortcuts.md</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/os/fedora/configuration/launcher-customization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/os/fedora/configuration/launcher-customization/</guid>
+      <description>launcher-customization.md</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/os/fedora/configuration/notification-settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/os/fedora/configuration/notification-settings/</guid>
+      <description>notification-settings.md</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/os/fedora/configuration/panel-taskbar-config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/os/fedora/configuration/panel-taskbar-config/</guid>
+      <description>panel-taskbar-config.md</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/os/fedora/configuration/power-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/os/fedora/configuration/power-management/</guid>
+      <description>power-management.md</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/os/fedora/configuration/shell-customization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/os/fedora/configuration/shell-customization/</guid>
+      <description>shell-customization.md</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/os/fedora/configuration/theme-customization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/os/fedora/configuration/theme-customization/</guid>
+      <description>theme-customization.md</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/os/fedora/configuration/wallpaper-screensaver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/os/fedora/configuration/wallpaper-screensaver/</guid>
+      <description>wallpaper-screensaver.md</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/os/fedora/configuration/window-manager-tweaks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/os/fedora/configuration/window-manager-tweaks/</guid>
+      <description>window-manager-tweaks.md</description>
+    </item>
+  </channel>
+</rss>
