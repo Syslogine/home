@@ -10,7 +10,7 @@ defaultContentLanguage = 'en'
     extended = true
     min = "0.100.0"
   [[module.imports]]
-    path = "github.com/colinwilson/lotusdocs"
+    path = "github.com/syslogine/home"
     disable = false
   [[module.imports]]
     path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"

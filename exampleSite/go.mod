@@ -1,4 +1,4 @@
-module github.com/colinwilson/lotusdocs/exampleSite
+module github.com/syslogine/home/exampleSite
 
 go 1.19
 
