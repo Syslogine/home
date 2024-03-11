@@ -1,3 +1,3 @@
-module github.com/syslogine/home
+module github.com/colinwilson/lotusdocs
 
 go 1.19

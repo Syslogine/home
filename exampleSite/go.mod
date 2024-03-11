@@ -1,4 +1,4 @@
-module github.com/syslogine/home/exampleSite
+module github.com/colinwilson/lotusdocs/exampleSite
 
 go 1.19
 
@@ -7,4 +7,4 @@ require (
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
 )
 
-replace github.com/syslogine/home => ../
+replace github.com/colinwilson/lotusdocs => ../
