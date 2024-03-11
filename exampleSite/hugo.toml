@@ -3,36 +3,14 @@ languageCode = "en-GB"
 contentDir = "content"
 enableEmoji = true
 enableGitInfo = true
-
 defaultContentLanguage = 'en'
-[languages]
-  [languages.en]
-    title = "Syslogine Docs"
-    languageName = "English"
-    contentDir = "content/en"
-    weight = 10
-  [languages.fr]
-    title = "Syslogine Docs"
-    languageName = "Français"
-    contentDir = "content/fr"
-    weight = 20
-  [languages.de]
-    title = "Syslogine Docs"
-    languageName = "Deutsch"
-    contentDir = "content/de"
-    weight = 30
-  [languages.nl]
-    title = "Syslogine Docs"
-    languageName = "Nederlands"
-    contentDir = "content/nl"
-    weight = 40
 
 [module]
   [module.hugoVersion]
     extended = true
-    min = "0.100.0"
+    min = "0.120.0"
   [[module.imports]]
-    path = "github.com/colinwilson/lotusdocs"
+    path = "github.com/syslogine/home"
     disable = false
   [[module.imports]]
     path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
