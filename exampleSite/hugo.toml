@@ -7,16 +7,16 @@ enableGitInfo = true # N.B. .GitInfo does not currently function with git submod
 defaultContentLanguage = 'en'
 [languages]
   [languages.en]
-    title = "Lotus Docs Example Site"
+    title = "Syslogine Docs"
     languageName = "English"
     weight = 10
   [languages.fr]
-    title = "Lotus Docs Exemple de Site"
+    title = "Syslogine Docs"
     languageName = "Français"
     contentDir = "content/fr"
     weight = 20
   [languages.de]
-    title = "Lotus Docs Beispiel Site"
+    title = "Syslogine Docs"
     languageName = "Deutsch"
     contentDir = "content/de"
     weight = 30
@@ -59,7 +59,7 @@ defaultContentLanguage = 'en'
   mono_font       = "Fira Code" # Default is System font
 
     [params.footer]
-        copyright = "© :YEAR: Lotus Labs. Built with [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
+        copyright = "© :YEAR: Syslogine. Made with ❤️. All rights reserved. | [**Built with Hugo**](https://gohugo.io/) | Privacy Policy | Terms of Service"
         # version = true # includes git commit info
 
     [params.social]
@@ -69,7 +69,7 @@ defaultContentLanguage = 'en'
         # rss = true                    # show rss icon with link
 
     [params.docs] # Parameters for the /docs 'template'
-        title           = "Lotus Docs Example Site"           # default html title for documentation pages/sections
+        title           = "Syslogine Docs"           # default html title for documentation pages/sections
 
         # pathName        = "docs"                            # path name for documentation site | default "docs"
 
@@ -159,7 +159,7 @@ defaultContentLanguage = 'en'
 [menu]
 [[menu.primary]]
     name  = "Docs"
-    url = "docs/"
+    url = "docs/welcome"
     identifier = "docs"
     weight = 10
 
