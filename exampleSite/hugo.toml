@@ -20,6 +20,11 @@ defaultContentLanguage = 'en'
     languageName = "Deutsch"
     contentDir = "content/de"
     weight = 30
+  [languages.nl]
+    title = "Syslogine Docs"
+    languageName = "Nerderlands"
+    contentDir = "content/nl"
+    weight = 40
 
 [module]
   [module.hugoVersion]
