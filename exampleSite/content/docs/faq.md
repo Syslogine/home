@@ -1,6 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 linkTitle: "FAQ"
+icon: "help_outline"
 menu: main
 weight: 800
 description: >

@@ -1,6 +1,7 @@
 ---
 title: "Support"
 linkTitle: "Support"
+icon: "support_agent"
 menu: main
 weight: 900
 description: >

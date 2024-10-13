@@ -1,6 +1,7 @@
 ---
 title: "Ondersteuning"
 linkTitle: "Ondersteuning"
+icon: "support_agent"
 menu: main
 weight: 900
 description: >
