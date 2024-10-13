@@ -38,7 +38,7 @@ hero:
   ctaButton:
     icon: rocket_launch
     btnText: "Get Started"
-    url: "/docs/welcome"
+    url: "https://syslogine.com/docs/welcome"
   cta2Button:
     icon: construction
     btnText: "In Development"
