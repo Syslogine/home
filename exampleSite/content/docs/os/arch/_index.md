@@ -1,8 +1,9 @@
 ---
-title: "Arch Linux Tutorials"
+title: "Arch Linux"
 date: 2024-10-14
 description: "Explore a comprehensive collection of tutorials for Arch Linux, covering administration, configuration, development, installation, and more."
 keywords: ["Arch Linux", "Linux tutorials", "system administration", "package management", "development"]
+weight: 1
 ---
 
 # Arch Linux Tutorials
